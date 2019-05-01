@@ -1,0 +1,24 @@
+Y:\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\bin\Debug\TIMER SHUT.exe
+Y:\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\bin\Debug\TIMER SHUT.pdb
+Y:\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\bin\Debug\TIMER SHUT.xml
+Y:\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\obj\Debug\ResolveAssemblyReference.cache
+Y:\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER_SHUT.Form1.resources
+Y:\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER_SHUT.Resources.resources
+Y:\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.vbproj.GenerateResource.Cache
+Y:\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.exe
+Y:\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.xml
+Y:\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.pdb
+J:\education\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.exe
+J:\education\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.xml
+J:\education\projects of vs 2008\STUP\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.pdb
+C:\Users\Anish\Desktop\TIMER SHUT\TIMER SHUT\bin\Debug\TIMER SHUT.exe
+C:\Users\Anish\Desktop\TIMER SHUT\TIMER SHUT\bin\Debug\TIMER SHUT.pdb
+C:\Users\Anish\Desktop\TIMER SHUT\TIMER SHUT\bin\Debug\TIMER SHUT.xml
+C:\Users\Anish\Desktop\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.vbprojAssemblyReference.cache
+C:\Users\Anish\Desktop\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER_SHUT.Form1.resources
+C:\Users\Anish\Desktop\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER_SHUT.Resources.resources
+C:\Users\Anish\Desktop\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.vbproj.GenerateResource.cache
+C:\Users\Anish\Desktop\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.vbproj.CoreCompileInputs.cache
+C:\Users\Anish\Desktop\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.exe
+C:\Users\Anish\Desktop\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.xml
+C:\Users\Anish\Desktop\TIMER SHUT\TIMER SHUT\obj\Debug\TIMER SHUT.pdb
